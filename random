@@ -1,0 +1,12 @@
+#randomnum = 0
+import random
+
+num = random.randrange(101) #stores a number between 1-100
+
+
+#variable to run loop, set to false
+#generate a random number from 1-100
+#ask a user for their guess
+#check If the guess is bigger, print that
+#check If the guess is smaller, print that
+#check If equal, print that
